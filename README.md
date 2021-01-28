@@ -1,4 +1,4 @@
 # btu-react-finali-exam
-test user email: asd@asd.asd
+test user email: antsupovamariam@gmail.com
 
-test user pass : asdasd
+test user pass : 12345678
